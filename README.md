@@ -25,9 +25,8 @@ To run this project, you need the following:
 
 git clone https://github.com/Kiranwaqar/Chatbot-GeminiAPI.git
 
-cd Chatbot-GeminiAPI
-
 ### 2. Install dependencies
+
 Create a virtual environment (optional but recommended) and install the required dependencies:
 
 pip install -r requirements.txt
@@ -44,9 +43,7 @@ Create a .env file in the root of the project and add the following line (replac
 GOOGLE_API_KEY=your_google_api_key_here
 
 ### 4. Run the Chatbot
-Once the setup is complete, you can run the chatbot with the following command:
-
-python app.ipynb
+Once the setup is complete, you can run the chatbot.
 
 This will launch the Gradio interface, where you can start chatting with the AI model!
 
