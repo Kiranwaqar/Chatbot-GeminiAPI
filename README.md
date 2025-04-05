@@ -23,7 +23,7 @@ To run this project, you need the following:
 
 ### 1. Clone the repository
 
-git clone https://github.com/yourusername/Chatbot-GeminiAPI.git
+git clone https://github.com/Kiranwaqar/Chatbot-GeminiAPI.git
 
 cd Chatbot-GeminiAPI
 
